@@ -1,4 +1,4 @@
-{
+GUN_DATA = {
     "type": "FeatureCollection",
     "features": [
    {
